@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Steffo!
+### 👋 Hello, I'm Steffo!
 
 I am a Computer Science graduate who enjoys finding optimal solutions to  problems and publishing them as free software for everyone to use!
 
