@@ -6,4 +6,4 @@ I'm particularly interested in Internet technologies, games, and user and develo
 
 I often partecipate in [@RYGhub](https://github.com/RYGhub), and contribute knowledge and code where I see fit.
 
-_Please respect my free time and do not contact me on Telegram for issues related to one of my repositories._
+_Please respect my free time and do not contact me on Telegram for issues related to my repositories._
