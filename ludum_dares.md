@@ -1,6 +1,6 @@
 # Aggregate Ludum Dare scores
 
-> Click on the game name to visit the repository, or click
+> Click on the game name to visit the repository, or click the badges to visit the LDJam page!
 
 ## LD41 - [Beat TD](https://github.com/Steffo99/beat-td)
 
