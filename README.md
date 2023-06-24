@@ -4,8 +4,6 @@ I am a Computer Science master's student who enjoys finding optimal solutions to
 
 I'm particularly interested in Internet technologies, games, and user and developer experiences.
 
-I often partecipate in [@RYGhub](https://github.com/RYGhub), and contribute knowledge and code where I see fit.
-
 -----
 
 Please respect my free time and **do not contact me on Telegram** for issues related to my repositories; use GitHub or email instead!
