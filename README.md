@@ -25,8 +25,8 @@ I still have a few repositories here.
 
 A few of my projects gained a lot of popularity here on GitHub, so to not leave any dead link, I keep them up-to-date via Forgejo push mirrors:
 
-| Project name | Description | Impact |
-|--------------|-------------|-------:|
+| Project name | Description | Stars |
+|--------------|-------------|------:|
 | [**greed**](https://github.com/Steffo99/greed) | Customizable, multilanguage Telegram shop bot with Payments support | **624 ★** |
 | [**lihzahrd**](https://github.com/Steffo99/lihzahrd) | Terraria save file parser in Python | **22 ★** |
 | [**sophon**](https://github.com/Steffo99/sophon) | Research hub for universities | **10 ★** |
@@ -35,8 +35,8 @@ A few of my projects gained a lot of popularity here on GitHub, so to not leave 
 
 The rest of my repositories are development forks of other open source projects I contribute to; some of my latest accepted contributions ***here on GitHub*** have been to:
 
-| Project name | Description | Impact |
-|--------------|-------------|-------:|
+| Project name | Description | Stars |
+|--------------|-------------|------:|
 | [**Sable**](https://github.com/SableClient/Sable) | Matrix client | **476 ★** |
 | [**PyPI**](https://github.com/pypi/warehouse) | Python Package Index | **4200 ★** |
 | [**Space Station 14**](https://github.com/space-wizards/space-station-14) | Multiplayer game about paranoia and chaos on a space station | **3800 ★** |
