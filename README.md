@@ -13,13 +13,13 @@ For that reason, I enjoy using, exploring, studying, contributing to, and develo
 - videogames, and events involving them;
 - public collaborative projects of any scale.
 
-## My repositories
+## My *GitHub* repositories
 
 > [!Important]
 >
 > I have migrated most of my repositories to my own Forgejo instance.
 >
-> ### [➡️➡️➡️ **Go to my Forgejo profile!** ⬅️⬅️⬅️](https://g.starshard.space/steffo)
+> ### [➡️➡️➡️ **View all my projects on my Forgejo profile!** ⬅️⬅️⬅️](https://g.starshard.space/steffo)
 
 I still have a few repositories here.
 
@@ -31,7 +31,7 @@ A few of my projects gained a lot of popularity here on GitHub, so to not leave 
 4. [**obsidian-file-index**](https://github.com/Steffo99/obsidian-file-index) · Obsidian plugin to create a metadata file about the files present in the Vault · **8 ★**
 5. [**glassflame**](https://github.com/glassflame/glassflame.github.io) · Obsidian vault viewer making use of the above plugin · **6 ★**
 
-The rest of my repositories are development forks of other open source projects I contribute to; some of my latest contributions ***here on GitHub*** have been to:
+The rest of my repositories are development forks of other open source projects I contribute to; some of my latest accepted contributions ***here on GitHub*** have been to:
 
 1. [**Sable**](https://github.com/SableClient/Sable) · Matrix client
 2. [**PyPI**](https://github.com/pypi/warehouse) · Python Package Index
@@ -43,6 +43,4 @@ The rest of my repositories are development forks of other open source projects 
 
 I star a lot of cool projects!
 
-[➡️ **Check out the projects I've starred!** ⬅️](https://github.com/Steffo99?tab=stars)
-
-Follow me if you'd like to see what I star on your home feed.
+[Check out the projects I've starred](https://github.com/Steffo99?tab=stars), or follow me if you'd like to see what I star on your home feed.
