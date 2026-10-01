@@ -17,7 +17,7 @@ For that reason, I enjoy using, exploring, studying, contributing to, and develo
 
 > [!Important]
 >
-> I have migrated most of my repositories to my own Forgejo instance.
+> I have moved most of my repositories to my own Forgejo instance, `g.starshard.space`.
 >
 > ### [➡️➡️➡️ **View all my projects on my Forgejo profile!** ⬅️⬅️⬅️](https://g.starshard.space/steffo)
 
