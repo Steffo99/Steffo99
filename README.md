@@ -15,13 +15,13 @@ For that reason, I enjoy using, exploring, studying, contributing to, and develo
 
 ## My projects
 
-> [!Caution]
+> [!Important]
 >
 > I have moved most of my repositories to my own Forgejo instance, `g.starshard.space`, and deleted them from GitHub.
 >
 > ### [‼️‼️‼️ **View all my projects on my Forgejo profile!** ‼️‼️‼️](https://g.starshard.space/steffo)
 
-> [!Note]
+> [!Tip]
 >
 > I contribute to a variety of projects on many different code forges!
 >
