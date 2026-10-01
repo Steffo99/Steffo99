@@ -15,7 +15,7 @@ For that reason, I enjoy using, exploring, studying, contributing to, and develo
 
 ## My projects
 
-> [!Important]
+> [!Caution]
 >
 > I have moved most of my repositories to my own Forgejo instance, `g.starshard.space`, and deleted them from GitHub.
 >
