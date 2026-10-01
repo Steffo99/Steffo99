@@ -19,7 +19,7 @@ For that reason, I enjoy using, exploring, studying, contributing to, and develo
 >
 > I have migrated most of my repositories to my own Forgejo instance.
 >
-> ### [→ **Go to my Forgejo profile!**](https://g.starshard.space/steffo)
+> ### [➡️ **Go to my Forgejo profile!** ⬅️](https://g.starshard.space/steffo)
 
 I still have a few repositories here.
 
@@ -43,6 +43,6 @@ The rest of my repositories are development forks of other open source projects 
 
 I star a lot of cool projects!
 
-[→ **Check out the projects I've starred!**](https://github.com/Steffo99?tab=stars)
+[➡️ **Check out the projects I've starred!** ⬅️](https://github.com/Steffo99?tab=stars)
 
 Follow me if you'd like to see what I star on your home feed.
