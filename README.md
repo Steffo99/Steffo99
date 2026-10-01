@@ -19,13 +19,23 @@ For that reason, I enjoy using, exploring, studying, contributing to, and develo
 >
 > I have moved most of my repositories to my own Forgejo instance, `g.starshard.space`, and deleted them from GitHub.
 >
-> ### [❗️❗️❗️ **View all my projects on my Forgejo profile!** ❗️❗️❗️](https://g.starshard.space/steffo)
+> ### [‼️‼️‼️ **View all my projects on my Forgejo profile!** ‼️‼️‼️](https://g.starshard.space/steffo)
 
-## My repositories on GitHub
+> [!Note]
+>
+> I contribute to a variety of projects on many different code forges!
+>
+> Check also out my profiles on:
+>
+> 1. [Codeberg](https://codeberg.org/steffo)
+> 2. [Tangled](https://tangled.org/steffo.eu)
+> 3. [GitLab](https://gitlab.com/Steffo99)
 
-I still have a few repositories here.
+## My repositories *on GitHub*
 
-A few of my projects gained a lot of popularity here on GitHub, so to not leave any dead link, I keep them up-to-date via Forgejo push mirrors:
+I still have a few repositories here, as a few of my projects have gained a lot of popularity here on GitHub, and I didn't want to leave any dead link.
+
+Some of them are:
 
 | Project name | Description | Stars |
 |:------------:|-------------|------:|
@@ -35,7 +45,11 @@ A few of my projects gained a lot of popularity here on GitHub, so to not leave 
 | [**obsidian-file-index**](https://github.com/Steffo99/obsidian-file-index) | Obsidian plugin to create a metadata file about the files present in the Vault | **8 ★** |
 | [**glassflame**](https://github.com/glassflame/glassflame.github.io) | Obsidian vault viewer making use of the above plugin | **6 ★** |
 
-The rest of my repositories are development forks of other open source projects I contribute to; some of my latest accepted contributions ***here on GitHub*** have been to:
+They are automatically kept up-to-date via Forgejo push mirrors.
+
+## My contributions *on GitHub*
+
+Some of my latest accepted contributions ***here on GitHub*** have been to the following projects:
 
 | Project name | Description | Stars |
 |:------------:|-------------|------:|
@@ -45,8 +59,8 @@ The rest of my repositories are development forks of other open source projects 
 | [**owocr**](https://github.com/AuroraWright/owocr) | Multi-service, multi-platform optical character recognition | **301 ★** |
 | [**Design Comuni Italia**](https://github.com/italia/design-comuni-wordpress-theme) | The official Italian municipality Wordpress theme | **48 ★** |
 
-## My stars on GitHub
+## My stars *on GitHub*
 
-I star a lot of cool projects!
+I star all the projects I find that seem cool!
 
 [Check out the projects I've starred](https://github.com/Steffo99?tab=stars), or follow me if you'd like to see what I star on your home feed.
