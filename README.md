@@ -25,7 +25,7 @@ For that reason, I enjoy using, exploring, studying, contributing to, and develo
 >
 > I contribute to a variety of projects on many different code forges!
 >
-> Check also out my profiles on:
+> Also check out my profiles on:
 >
 > 1. [Codeberg](https://codeberg.org/steffo)
 > 2. [Tangled](https://tangled.org/steffo.eu)
