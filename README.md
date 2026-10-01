@@ -13,13 +13,15 @@ For that reason, I enjoy using, exploring, studying, contributing to, and develo
 - videogames, and events involving them;
 - public collaborative projects of any scale.
 
-## My repositories on GitHub
+## My projects
 
 > [!Important]
 >
-> I have moved most of my repositories to my own Forgejo instance, `g.starshard.space`.
+> I have moved most of my repositories to my own Forgejo instance, `g.starshard.space`, and deleted them from GitHub.
 >
-> ### [➡️➡️➡️ **View all my projects on my Forgejo profile!** ⬅️⬅️⬅️](https://g.starshard.space/steffo)
+> ### [❗️❗️❗️ **View all my projects on my Forgejo profile!** ❗️❗️❗️](https://g.starshard.space/steffo)
+
+## My repositories on GitHub
 
 I still have a few repositories here.
 
