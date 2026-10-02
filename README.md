@@ -64,3 +64,8 @@ Some of my latest accepted contributions ***here on GitHub*** have been to the f
 I star all the projects I find that seem cool!
 
 [Check out the projects I've starred](https://github.com/Steffo99?tab=stars), or follow me if you'd like to see what I star on your home feed.
+
+## Support me
+
+I accept donations [on Liberapay (recurring)](https://liberapay.com/Steffo/) and [on Ko-fi (one-time)](https://ko-fi.com/steffo): if you like what I make, consider leaving me a tip!
+
